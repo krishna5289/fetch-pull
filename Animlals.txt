@@ -4,3 +4,5 @@ Liger
 Elephant
 Jaguar
 Cheetah
+Zebra
+Giraffee
