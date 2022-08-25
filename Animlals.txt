@@ -6,3 +6,4 @@ Jaguar
 Cheetah
 Zebra
 Giraffee
+Puma
