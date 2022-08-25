@@ -7,3 +7,6 @@ Cheetah
 Zebra
 Giraffee
 Puma
+Cow
+cat
+Dog
