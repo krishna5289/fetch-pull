@@ -7,6 +7,12 @@ Cheetah
 Zebra
 Giraffee
 Puma
+<<<<<<< HEAD
 Cow
 cat
 Dog
+=======
+Leopord
+Bear
+Rhino
+>>>>>>> 2e9e61e3347e106997487be7afea94f270b6bb0d
